@@ -1,6 +1,6 @@
 {
   "name": "pre-release",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Publish disposable pre-releases",
   "main": "index.js",
   "repository": {
